@@ -6,7 +6,6 @@ This code contains a PHP website which connects to MySQL and performs actions li
 Sign Up, Login, Logout, Insert, Update, Delete and Search.
 
 ### Guide
-Make sure to install [Xampp](https://www.apachefriends.org/).
-Copy the files into htdocs folder inside of xampp installation folder.
+Make sure to install [Xampp](https://www.apachefriends.org/) then Copy the files into htdocs folder inside of xampp installation folder.
 
 You are good to go ...
